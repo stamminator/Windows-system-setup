@@ -1,0 +1,1 @@
+After cloning this repo, run `git update-index --assume-unchanged logs/log.txt` to make sure entries to the log file do not result in git changes.
